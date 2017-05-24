@@ -25,10 +25,18 @@ body {
 
 }
 
+.navbar-inverse .navbar-brand {
+  color: #FA6B6B;
+  font-family: 'exoregular', sans-serif;
+  font-size:26px;
+
+}
+
 .navbar.navbar-inverse {
   background:url('/assets/old_moon.png');  
   border: transparent;
   box-shadow: 0px 1px 3px #2a2a2a;
-
 }
+
+
 
